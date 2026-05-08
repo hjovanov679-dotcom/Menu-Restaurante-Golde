@@ -1,5 +1,8 @@
 body {
   background-image: url(Background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 h2 {
   font-size: 50px;
